@@ -230,7 +230,7 @@ export const projectsData = [
     type: "WEB-APP",
     title: "Movie Display",
     image: "movie-display",
-    link: "https://roaming-debug.github.io/Movie-Display/",
+    link: "https://isezrage.com/Movie-Display/",
     source: "https://github.com/roaming-debug/Movie-Display",
   },
   {
